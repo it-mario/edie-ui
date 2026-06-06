@@ -25,3 +25,14 @@ A modern and lightweight UI library built with React for building fast, responsi
 ---
 
 ## 📁 Project Structure
+
+edie-ui/
+│── src/
+│ ├── components/
+│ ├── pages/
+│ ├── styles/
+│ └── App.jsx
+│
+│── public/
+│── package.json
+│── README.md
